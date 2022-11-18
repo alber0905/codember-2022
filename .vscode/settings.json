@@ -35,8 +35,8 @@
     "yokawasa",
     "YSNP"
   ],
-  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.preferences.importModuleSpecifier": "relative",
   "javascript.preferences.quoteStyle": "single",
-  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
   "typescript.preferences.quoteStyle": "single"
 }
